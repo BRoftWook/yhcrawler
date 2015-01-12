@@ -1,5 +1,20 @@
-# yhcrawler
+# Crawler for Yonhap News
 
-## 새로운 크롤러 깃 저장소 입니다.
+## Requirements
 
-### 김영준 짱짱맨
+- Java (JDK 1.6 +)
+
+## Run
+
+- Go Run Configurations > Arguments > Program Arguments
+- Type article published date and save directory you want as below
+
+		-f [Directory] -d [Date]
+
+  for example,  `-f C:\Users\Wook\Desktop -d 2015-01-04`
+
+- Run the code
+
+## Author
+
+- Wook
